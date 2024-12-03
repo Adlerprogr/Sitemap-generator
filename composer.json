@@ -1,0 +1,14 @@
+{
+    "name": "adlerprogr/generating-site-map",
+    "description": "Библиотека для создания карт сайта в форматах XML, JSON и CSV.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adlerprogr\\GeneratingSiteMap\\": "src/"
+        }
+    },
+  "require": {
+    "ext-simplexml": "*"
+  }
+}
